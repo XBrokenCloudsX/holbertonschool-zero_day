@@ -1,2 +1,1 @@
-git --git-dir=a.git --work-tree=b -C c status
-git --git-dir=c/a.git --work-tree=c/b status
+git pull
